@@ -36,7 +36,7 @@ This banner prompts customers to leave reviews for their recent purchases, helpi
 
 ## Useful links:
 
-- [Step-by-step guide on how to configure Google Customer Reviews Tag](https://stape.io/helpdesk/documentation/google-customer-reviews-tag")
+- [Step-by-step guide on how to configure Google Customer Reviews Tag](https://stape.io/helpdesk/documentation/google-customer-reviews-tag)
 
 ## Open Source
 
