@@ -17,7 +17,7 @@ This banner prompts customers to leave reviews for their recent purchases, helpi
 - **Order ID** – A unique identifier for the order.
 - **Customer Email** – The customer's email address, in the format `name@example.com`.
 - **Country Code** – The two-letter country code where the order will be delivered ([ISO 3166-1 alpha-2 format](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2), e.g., `US`).
-- **Estimated Delivery Date** – The expected delivery date in `YYYY-MM-DD` format (e.g.,  `2025-12-31`).
+- **Estimated Delivery Date** – The expected delivery date in `YYYY-MM-DD` format (e.g., `2025-12-31`).
 
 ## Optional Fields
 
@@ -33,6 +33,10 @@ This banner prompts customers to leave reviews for their recent purchases, helpi
 ## Implementation Notes
 
 - Make sure that the Merchant Center store is claimed and verified. [Learn more](https://support.google.com/merchants/answer/11586344?hl=en).
+
+## Useful links:
+
+- [Step-by-step guide on how to configure Google Customer Reviews Tag](https://stape.io/helpdesk/documentation/google-customer-reviews-tag)
 
 ## Open Source
 
